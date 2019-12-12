@@ -15,8 +15,8 @@ Rather than making chages to Archon, creating a small utility to download EAD fi
 
 There are two options for installing:
 
-* Installing/building from source.
-* Downloading the compiled binary.
+* Install/build from source.
+* [Download](https://github.com/robertaltman/eadfetch/releases) a compiled binary.
 
 ### Prerequisites
 
@@ -30,7 +30,7 @@ go get github.com/robertaltman/eadfetch
 
 ### Compiled Binary
 
-`eadfetch` can be installed as an executable. Download the compiled binaries from ... Place the binary in some sensible location and call directly. Open your terminal or command prompt and navigate to the location of the binary. 
+`eadfetch` can be installed as an executable. Download the appropriate compiled binary from the [releases](https://github.com/robertaltman/eadfetch/releases) section. Place the binary in some sensible location and call directly. Open your terminal or command prompt and navigate to the location of the binary. 
 
 ```sh
 Linux/Mac
@@ -152,25 +152,6 @@ The last column will contain information about the status of a retrieval.
 
 Files should now exist in the output directory. The directory will also contain a report/log file titled `ead-fetch-report.csv` indicating the status of each request. Refer to it to determine any download issues.
 
-
-<!-- ## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).  -->
-
-## Authors
-
-* **Robert Altman**
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-<!-- 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc -->
