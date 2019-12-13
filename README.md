@@ -154,4 +154,4 @@ Files should now exist in the output directory. The directory will also contain 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/robertaltman/eadfetch/blob/master/LICENSE) file for details
